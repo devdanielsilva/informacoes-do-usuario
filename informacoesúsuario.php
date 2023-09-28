@@ -9,4 +9,4 @@ $corFavorita = 'Vermelho';
 $timeCoracao = "São Paulo Fc";
 
 //Escrevendo na tela as informações.
-echo "Meu nome é $nome, tenho $idade de idade, nasci em $datanascimento, tenho $altura de altura. Minha cor favorita é $corFavorita e o meu clube do coração é $timeCoracao";
+echo "Meu nome é $nome, tenho $idade de idade, nasci em $datanascimento, tenho $altura de altura. <br>Minha cor favorita é $corFavorita e o meu clube do coração é $timeCoracao";
